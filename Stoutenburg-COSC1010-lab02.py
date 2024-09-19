@@ -50,7 +50,7 @@ print(f"x / y = {x/y}")
 first_name = "reuben"
 last_name = "stoutenburg"
 space = " "
-full_name = first_name + last_name
+full_name = first_name + space + last_name
 print(full_name.title())
 
 
