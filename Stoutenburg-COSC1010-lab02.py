@@ -27,6 +27,14 @@ date = "1886"
 
 print(f"The {college} was founded in {date}")
 
+# Now let's do some math with variables 
+    # Create two variables x and y and assign them the values 5 and 10 respectively 
+    # Complete the following print statements using your variables
+    #All math must be done within the braces in the f-strings
+x = 5
+y = 10
+
+
 # String concatenation 
     # Finally we will take a look at string concatenation
     # String concatenation combines two strings together
