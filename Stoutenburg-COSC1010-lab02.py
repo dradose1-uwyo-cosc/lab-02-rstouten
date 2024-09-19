@@ -13,10 +13,14 @@ print("Hello, COSC1010")
 hello_message = "Hello, COSC1010"
 print(hello_message)
 
-# create "Cowboy Joe" variable
+# create "Cowboy Joe" variable and print it
 
 mascot = "Cowboy Joe"
 print(mascot)
+
+# Complete the following f-string print message 
+    # You will need to create your own variables and insert them  
+    # the final message should read `The University of Wyoming was founded in 1886`
 
 college = "University of Wyoming"
 date = "1886"
