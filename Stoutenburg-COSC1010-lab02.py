@@ -33,7 +33,10 @@ print(f"The {college} was founded in {date}")
     #All math must be done within the braces in the f-strings
 x = 5
 y = 10
-
+print(f"x + y = {x+y}")
+print(f"x - y = {x-y}")
+print(f"x * y = {x*y}")
+print(f"x / y = {x/y}")
 
 # String concatenation 
     # Finally we will take a look at string concatenation
